@@ -1,0 +1,6 @@
+Ejercicio 1a:
+Ejecutar pruebas: npm run test
+Ejecutar consola: npm run start
+
+Ejercicio 1b:
+Ejecutar consola: npm run start

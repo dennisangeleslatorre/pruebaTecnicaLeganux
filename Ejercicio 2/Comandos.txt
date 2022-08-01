@@ -1,0 +1,6 @@
+Ejercicio 2:
+Frontend:
+npm run start
+
+Backend:
+npm run start
